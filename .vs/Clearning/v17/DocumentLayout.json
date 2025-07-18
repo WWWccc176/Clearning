@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VScodeLocation\\Clearning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78A0072F-EEFB-40CF-A1B1-938AC0DD6ED8}|type\\type.vcxproj|E:\\VScodeLocation\\Clearning\\type\\1.4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78A0072F-EEFB-40CF-A1B1-938AC0DD6ED8}|type\\type.vcxproj|solutionrelative:type\\1.4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298AF936-6A07-43AE-AE16-B11811CEF2E3}|exchangeOrder\\exchangeOrder.vcxproj|E:\\VScodeLocation\\Clearning\\exchangeOrder\\1.3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{298AF936-6A07-43AE-AE16-B11811CEF2E3}|exchangeOrder\\exchangeOrder.vcxproj|solutionrelative:exchangeOrder\\1.3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69479322-348F-462A-8F91-C79BB6D9C7DB}|Project1\\Project1.vcxproj|E:\\VScodeLocation\\Clearning\\Project1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69479322-348F-462A-8F91-C79BB6D9C7DB}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FB90ED-DF65-458F-9A8B-C103231B96B1}|1.2\\1.2.vcxproj|E:\\VScodeLocation\\Clearning\\1.2\\NumberType.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4FB90ED-DF65-458F-9A8B-C103231B96B1}|1.2\\1.2.vcxproj|solutionrelative:1.2\\NumberType.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.4.c",
+              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\type\\1.4.c",
+              "RelativeDocumentMoniker": "type\\1.4.c",
+              "ToolTip": "E:\\VScodeLocation\\Clearning\\type\\1.4.c",
+              "RelativeToolTip": "type\\1.4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-14T17:34:35.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1.3.c",
+              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\exchangeOrder\\1.3.c",
+              "RelativeDocumentMoniker": "exchangeOrder\\1.3.c",
+              "ToolTip": "E:\\VScodeLocation\\Clearning\\exchangeOrder\\1.3.c",
+              "RelativeToolTip": "exchangeOrder\\1.3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-13T18:33:31.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\Project1\\main.c",
+              "RelativeDocumentMoniker": "Project1\\main.c",
+              "ToolTip": "E:\\VScodeLocation\\Clearning\\Project1\\main.c",
+              "RelativeToolTip": "Project1\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-12T20:06:02.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumberType.c",
+              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\1.2\\NumberType.c",
+              "RelativeDocumentMoniker": "1.2\\NumberType.c",
+              "ToolTip": "E:\\VScodeLocation\\Clearning\\1.2\\NumberType.c",
+              "RelativeToolTip": "1.2\\NumberType.c",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-12T20:05:40.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
