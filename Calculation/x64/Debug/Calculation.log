@@ -1,0 +1,4 @@
+﻿  4.1.c
+E:\VScodeLocation\Clearning\Calculation\4.1.c(7,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VScodeLocation\Clearning\Calculation\4.1.c(7,8): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Calculation.vcxproj -> E:\VScodeLocation\Clearning\x64\Debug\Calculation.exe
