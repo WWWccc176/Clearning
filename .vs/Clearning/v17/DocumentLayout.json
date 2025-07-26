@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "E:\\VScodeLocation\\Clearning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C572500-3675-4074-A3E6-BD30F12ABD97}|Calculation\\Calculation.vcxproj|E:\\VScodeLocation\\Clearning\\Calculation\\4.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4C572500-3675-4074-A3E6-BD30F12ABD97}|Calculation\\Calculation.vcxproj|solutionrelative:Calculation\\4.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{63EE8019-0F2B-4E6E-9F33-006F25FD9A28}|minimumNumber\\minimumNumber.vcxproj|E:\\VScodeLocation\\Clearning\\minimumNumber\\5.6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63EE8019-0F2B-4E6E-9F33-006F25FD9A28}|minimumNumber\\minimumNumber.vcxproj|solutionrelative:minimumNumber\\5.6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45B3C3A6-6E5D-4AD8-96B1-057E0F6820E7}|String2\\String2.vcxproj|E:\\VScodeLocation\\Clearning\\String2\\3.2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{45B3C3A6-6E5D-4AD8-96B1-057E0F6820E7}|String2\\String2.vcxproj|solutionrelative:String2\\3.2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A4F44C90-D9E1-464E-9DAE-3C7389FA962C}|rightTriangle\\rightTriangle.vcxproj|E:\\VScodeLocation\\Clearning\\rightTriangle\\5.5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4F44C90-D9E1-464E-9DAE-3C7389FA962C}|rightTriangle\\rightTriangle.vcxproj|solutionrelative:rightTriangle\\5.5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3BC01AB-5C59-4EB7-AF6B-4AEBC769D262}|String\\String.vcxproj|E:\\VScodeLocation\\Clearning\\String\\3.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F3BC01AB-5C59-4EB7-AF6B-4AEBC769D262}|String\\String.vcxproj|solutionrelative:String\\3.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DCA1C4CD-C0CA-430C-AA71-7AD296066EE4}|isoscelesTriangle\\isoscelesTriangle.vcxproj|E:\\VScodeLocation\\Clearning\\isoscelesTriangle\\5.4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCA1C4CD-C0CA-430C-AA71-7AD296066EE4}|isoscelesTriangle\\isoscelesTriangle.vcxproj|solutionrelative:isoscelesTriangle\\5.4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BED7C06-3E77-4872-9A51-98BDD18479F4}|Float\\Float.vcxproj|E:\\VScodeLocation\\Clearning\\Float\\1.5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3BED7C06-3E77-4872-9A51-98BDD18479F4}|Float\\Float.vcxproj|solutionrelative:Float\\1.5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D9E948B8-316E-4DD8-B3F5-81A3E1FE14A1}|regularTriangle\\regularTriangle.vcxproj|E:\\VScodeLocation\\Clearning\\regularTriangle\\5.3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9E948B8-316E-4DD8-B3F5-81A3E1FE14A1}|regularTriangle\\regularTriangle.vcxproj|solutionrelative:regularTriangle\\5.3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AD167FF-9A89-41C3-8A12-A1273B765806}|ExchangeNumberTypes\\ExchangeNumberTypes.vcxproj|E:\\VScodeLocation\\Clearning\\ExchangeNumberTypes\\averageNumber.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2AD167FF-9A89-41C3-8A12-A1273B765806}|ExchangeNumberTypes\\ExchangeNumberTypes.vcxproj|solutionrelative:ExchangeNumberTypes\\averageNumber.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{22F59C46-E4DD-4F22-967C-E00BE17B4D56}|Con2\\Con2.vcxproj|E:\\VScodeLocation\\Clearning\\Con2\\5.2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22F59C46-E4DD-4F22-967C-E00BE17B4D56}|Con2\\Con2.vcxproj|solutionrelative:Con2\\5.2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CF6CFB9-B981-4669-A987-DF0E69F236E6}|PrintScaf\\PrintScaf.vcxproj|E:\\VScodeLocation\\Clearning\\PrintScaf\\2.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9CF6CFB9-B981-4669-A987-DF0E69F236E6}|PrintScaf\\PrintScaf.vcxproj|solutionrelative:PrintScaf\\2.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4FB90ED-DF65-458F-9A8B-C103231B96B1}|1.2\\1.2.vcxproj|E:\\VScodeLocation\\Clearning\\1.2\\NumberType.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B4FB90ED-DF65-458F-9A8B-C103231B96B1}|1.2\\1.2.vcxproj|solutionrelative:1.2\\NumberType.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69479322-348F-462A-8F91-C79BB6D9C7DB}|Project1\\Project1.vcxproj|E:\\VScodeLocation\\Clearning\\Project1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69479322-348F-462A-8F91-C79BB6D9C7DB}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78A0072F-EEFB-40CF-A1B1-938AC0DD6ED8}|type\\type.vcxproj|E:\\VScodeLocation\\Clearning\\type\\1.4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{78A0072F-EEFB-40CF-A1B1-938AC0DD6ED8}|type\\type.vcxproj|solutionrelative:type\\1.4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{298AF936-6A07-43AE-AE16-B11811CEF2E3}|exchangeOrder\\exchangeOrder.vcxproj|E:\\VScodeLocation\\Clearning\\exchangeOrder\\1.3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{298AF936-6A07-43AE-AE16-B11811CEF2E3}|exchangeOrder\\exchangeOrder.vcxproj|solutionrelative:exchangeOrder\\1.3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F2171731-8BFB-4876-83A6-33BA33CDC8ED}|Condition\\Condition.vcxproj|E:\\VScodeLocation\\Clearning\\Condition\\5.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2171731-8BFB-4876-83A6-33BA33CDC8ED}|Condition\\Condition.vcxproj|solutionrelative:Condition\\5.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,126 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "4.1.c",
-              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\Calculation\\4.1.c",
-              "RelativeDocumentMoniker": "Calculation\\4.1.c",
-              "ToolTip": "E:\\VScodeLocation\\Clearning\\Calculation\\4.1.c",
-              "RelativeToolTip": "Calculation\\4.1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "5.6.c",
+              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\minimumNumber\\5.6.c",
+              "RelativeDocumentMoniker": "minimumNumber\\5.6.c",
+              "ToolTip": "E:\\VScodeLocation\\Clearning\\minimumNumber\\5.6.c",
+              "RelativeToolTip": "minimumNumber\\5.6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-24T19:09:48.032Z",
+              "WhenOpened": "2025-07-26T19:01:25.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "3.2.c",
-              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\String2\\3.2.c",
-              "RelativeDocumentMoniker": "String2\\3.2.c",
-              "ToolTip": "E:\\VScodeLocation\\Clearning\\String2\\3.2.c",
-              "RelativeToolTip": "String2\\3.2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "5.5.c",
+              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\rightTriangle\\5.5.c",
+              "RelativeDocumentMoniker": "rightTriangle\\5.5.c",
+              "ToolTip": "E:\\VScodeLocation\\Clearning\\rightTriangle\\5.5.c",
+              "RelativeToolTip": "rightTriangle\\5.5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-24T18:44:46.576Z",
+              "WhenOpened": "2025-07-26T18:37:02.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "3.1.c",
-              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\String\\3.1.c",
-              "RelativeDocumentMoniker": "String\\3.1.c",
-              "ToolTip": "E:\\VScodeLocation\\Clearning\\String\\3.1.c",
-              "RelativeToolTip": "String\\3.1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "5.4.c",
+              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\isoscelesTriangle\\5.4.c",
+              "RelativeDocumentMoniker": "isoscelesTriangle\\5.4.c",
+              "ToolTip": "E:\\VScodeLocation\\Clearning\\isoscelesTriangle\\5.4.c",
+              "RelativeToolTip": "isoscelesTriangle\\5.4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-21T09:07:07.186Z",
+              "WhenOpened": "2025-07-26T18:24:01.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "5.3.c",
+              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\regularTriangle\\5.3.c",
+              "RelativeDocumentMoniker": "regularTriangle\\5.3.c",
+              "ToolTip": "E:\\VScodeLocation\\Clearning\\regularTriangle\\5.3.c",
+              "RelativeToolTip": "regularTriangle\\5.3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-26T17:23:18.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "averageNumber.c",
-              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\ExchangeNumberTypes\\averageNumber.c",
-              "RelativeDocumentMoniker": "ExchangeNumberTypes\\averageNumber.c",
-              "ToolTip": "E:\\VScodeLocation\\Clearning\\ExchangeNumberTypes\\averageNumber.c",
-              "RelativeToolTip": "ExchangeNumberTypes\\averageNumber.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "5.2.c",
+              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\Con2\\5.2.c",
+              "RelativeDocumentMoniker": "Con2\\5.2.c",
+              "ToolTip": "E:\\VScodeLocation\\Clearning\\Con2\\5.2.c",
+              "RelativeToolTip": "Con2\\5.2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-20T19:35:26.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "2.1.c",
-              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\PrintScaf\\2.1.c",
-              "RelativeDocumentMoniker": "PrintScaf\\2.1.c",
-              "ToolTip": "E:\\VScodeLocation\\Clearning\\PrintScaf\\2.1.c",
-              "RelativeToolTip": "PrintScaf\\2.1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-20T19:20:10.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "1.5.c",
-              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\Float\\1.5.c",
-              "RelativeDocumentMoniker": "Float\\1.5.c",
-              "ToolTip": "E:\\VScodeLocation\\Clearning\\Float\\1.5.c",
-              "RelativeToolTip": "Float\\1.5.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-20T19:13:01.687Z",
+              "WhenOpened": "2025-07-25T18:12:03.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "1.4.c",
-              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\type\\1.4.c",
-              "RelativeDocumentMoniker": "type\\1.4.c",
-              "ToolTip": "E:\\VScodeLocation\\Clearning\\type\\1.4.c",
-              "RelativeToolTip": "type\\1.4.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "5.1.c",
+              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\Condition\\5.1.c",
+              "RelativeDocumentMoniker": "Condition\\5.1.c",
+              "ToolTip": "E:\\VScodeLocation\\Clearning\\Condition\\5.1.c",
+              "RelativeToolTip": "Condition\\5.1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-14T17:34:35.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "1.3.c",
-              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\exchangeOrder\\1.3.c",
-              "RelativeDocumentMoniker": "exchangeOrder\\1.3.c",
-              "ToolTip": "E:\\VScodeLocation\\Clearning\\exchangeOrder\\1.3.c",
-              "RelativeToolTip": "exchangeOrder\\1.3.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-13T18:33:31.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "main.c",
-              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\Project1\\main.c",
-              "RelativeDocumentMoniker": "Project1\\main.c",
-              "ToolTip": "E:\\VScodeLocation\\Clearning\\Project1\\main.c",
-              "RelativeToolTip": "Project1\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-12T20:06:02.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NumberType.c",
-              "DocumentMoniker": "E:\\VScodeLocation\\Clearning\\1.2\\NumberType.c",
-              "RelativeDocumentMoniker": "1.2\\NumberType.c",
-              "ToolTip": "E:\\VScodeLocation\\Clearning\\1.2\\NumberType.c",
-              "RelativeToolTip": "1.2\\NumberType.c",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-12T20:05:40.626Z"
+              "WhenOpened": "2025-07-25T13:24:36.685Z"
             }
           ]
         }
