@@ -1,0 +1,12 @@
+.vs/
+*.ipch
+ipch/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+*.obj
+*.pch
+*.pdb
+bin/
+obj/
