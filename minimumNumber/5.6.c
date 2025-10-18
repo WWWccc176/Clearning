@@ -16,7 +16,6 @@ int main(void) {
 	}
 	
 	printf("The minimun number is: %f\n", min);
-	
 
 	return 0;
 }
